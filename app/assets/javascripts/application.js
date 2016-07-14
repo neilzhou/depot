@@ -12,4 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require libs/prototype
+//= require libs/scriptaculous
 //= require_tree .
