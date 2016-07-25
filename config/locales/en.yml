@@ -3,3 +3,28 @@
 
 en:
   hello: "Hello world"
+  layouts:
+    application:
+      title: 'Pragmatic Bookself'
+      home: 'Home'
+      questions: 'Questions'
+      news: 'News'
+      contact: 'Contact'
+  store:
+    index:
+      title_html: 'Your Pragmatic Catalog'
+      add_html: 'Add to Cart'
+  carts:
+    cart:
+      title: 'Your Cart'
+      checkout: 'Checkout'
+      empty: 'Empty cart'
+  number:
+    currency:
+      format:
+        unit: '$'
+        precision: 2
+        separator: '.'
+        delimiter: ','
+        format: '%u%n'
+
